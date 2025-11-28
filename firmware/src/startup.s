@@ -9,6 +9,7 @@
 .word _estack
 .word Reset_Handler
 .word Default_Handler
+
 .word Default_Handler
 
 .section .text
